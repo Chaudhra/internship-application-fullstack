@@ -1,0 +1,6 @@
+name = "adil-cloudflare-internship-fullstack"
+type = "javascript"
+account_id = "4a59078c85ef7c3f71c6904cb985eb0a"
+workers_dev = true
+route = ""
+zone_id = ""
